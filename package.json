@@ -1,0 +1,9 @@
+{
+    "name": "valid-credit-card-lib",
+	"version": "1.0.0",
+	"description": "tests whether the numbers entered for the credit/debit card are valid.",
+	"main": "index.js",	
+	"keywords": [],
+	"author": "Talha Çetintürk",
+	"license": "ISC"
+}
